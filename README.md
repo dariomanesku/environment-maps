@@ -7,6 +7,8 @@ Photos were taken with a phone camera and stitched together by software so they 
 
 Pictures are uploaded in JPEG format for lower file size. Prior to using them with [cmft](https://github.com/dariomanesku/cmft), they should be converted to TGA (or other format supported by [cmft](https://github.com/dariomanesku/cmft)). JPEG images can be loaded and exported to TGA with [GIMP](http://www.gimp.org/).
 
+Click on the title links to view them on Google Maps or [here](https://www.google.com/maps/views/profile/117998106393492128954) for the entire gallery.
+
 ### [Pomocni stadion](https://www.google.com/maps/views/view/117998106393492128954/photo/TBO4zrzi9dcAAAQWs8hv6g)
 
 ![pomocni-stadion](https://github.com/dariomanesku/environment-maps/raw/master/jpg/pomocni_stadion.jpg)
