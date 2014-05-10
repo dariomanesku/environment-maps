@@ -6,15 +6,15 @@ Environment maps.
 ![pomocni-stadion](https://github.com/dariomanesku/environment-maps/raw/master/jpg/pomocni_stadion.jpg)
 
 
-### Kula 0
+### [Kula 0](https://www.google.com/maps/views/view/117998106393492128954/photo/K1zn5ZI2vH8AAAQWs8hv5w)
 
 ![kula0](https://github.com/dariomanesku/environment-maps/raw/master/jpg/kula0.jpg)
 
-### Crkvica
+### [Crkvica](https://www.google.com/maps/views/view/117998106393492128954/photo/D0tKxJyGTPsAAAQWs8hv5Q)
 
 ![crkvica](https://github.com/dariomanesku/environment-maps/raw/master/jpg/crkvica.jpg)
 
-### Glavni stadion
+### [Glavni stadion](https://www.google.com/maps/views/view/117998106393492128954/photo/J5AubnPkfSYAAAQWs8hv7Q)
 
 ![glavni-stadion](https://github.com/dariomanesku/environment-maps/raw/master/jpg/glavni_stadion.jpg)
 
@@ -30,7 +30,7 @@ Environment maps.
 
 ![okretnica](https://github.com/dariomanesku/environment-maps/raw/master/jpg/okretnica.jpg)
 
-### Pogled na stadion
+### [Pogled na stadion](https://www.google.com/maps/views/view/117998106393492128954/photo/iQrGayW1dLQAAAQWs8hv7g)
 
 ![pogled-na-stadion](https://github.com/dariomanesku/environment-maps/raw/master/jpg/pogled_na_stadion.jpg)
 
@@ -38,11 +38,11 @@ Environment maps.
 
 ![slavisa](https://github.com/dariomanesku/environment-maps/raw/master/jpg/slavisa.jpg)
 
-### Bina
+### [Bina](https://www.google.com/maps/views/view/117998106393492128954/photo/Pi-NmXsVSDAAAAQWs8hv5g)
 
 ![bina](https://github.com/dariomanesku/environment-maps/raw/master/jpg/bina.jpg)
 
-### Stena
+### [Stena](https://www.google.com/maps/views/view/117998106393492128954/photo/xCrb7Pbo-JkAAAQWs8hv6A)
 
 ![stena](https://github.com/dariomanesku/environment-maps/raw/master/jpg/stena.jpg)
 
