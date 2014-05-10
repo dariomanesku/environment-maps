@@ -1,6 +1,12 @@
 Environment maps.
 ============================================================================
 
+These environment maps are from the town of Vrsac in Serbia.<br />
+
+Photos were taken with a phone camera and stitched together by software so they might contain some visual errors. They are to be used as input for testing [cmft](https://github.com/dariomanesku/cmft) so those visual imperfections are not representing a major problem.
+
+Pictures are uploaded in JPEG format for lower file size. Prior to using them with [cmft](https://github.com/dariomanesku/cmft), they should be converted to TGA (or other format supported by [cmft](https://github.com/dariomanesku/cmft)). JPEG images can be loaded and exported to TGA with [GIMP](http://www.gimp.org/).
+
 ### Pomocni stadion
 
 ![pomocni-stadion](https://github.com/dariomanesku/environment-maps/raw/master/jpg/pomocni_stadion.jpg)
