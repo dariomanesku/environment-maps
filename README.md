@@ -7,10 +7,9 @@ Photos were taken with a phone camera and stitched together by software so they 
 
 Pictures are uploaded in JPEG format for lower file size. Prior to using them with [cmft](https://github.com/dariomanesku/cmft), they should be converted to TGA (or other format supported by [cmft](https://github.com/dariomanesku/cmft)). JPEG images can be loaded and exported to TGA with [GIMP](http://www.gimp.org/).
 
-### Pomocni stadion
+### [Pomocni stadion](https://www.google.com/maps/views/view/117998106393492128954/photo/TBO4zrzi9dcAAAQWs8hv6g)
 
 ![pomocni-stadion](https://github.com/dariomanesku/environment-maps/raw/master/jpg/pomocni_stadion.jpg)
-
 
 ### [Kula 0](https://www.google.com/maps/views/view/117998106393492128954/photo/K1zn5ZI2vH8AAAQWs8hv5w)
 
@@ -24,15 +23,15 @@ Pictures are uploaded in JPEG format for lower file size. Prior to using them wi
 
 ![glavni-stadion](https://github.com/dariomanesku/environment-maps/raw/master/jpg/glavni_stadion.jpg)
 
-### Travnjak
+### [Travnjak](https://www.google.com/maps/views/view/117998106393492128954/photo/d0kbbPWdZxQAAAQWs8hv6Q)
 
 ![travnjak](https://github.com/dariomanesku/environment-maps/raw/master/jpg/travnjak.jpg)
 
-### Kula 1
+### [Kula 1](https://www.google.com/maps/views/view/117998106393492128954/photo/GCGnSs9l28YAAAQWs8hv6w)
 
 ![kula1](https://github.com/dariomanesku/environment-maps/raw/master/jpg/kula1.jpg)
 
-### Okretnica
+### [Okretnica](https://www.google.com/maps/views/view/117998106393492128954/photo/cMNpO4PAtIEAAAQWs8hv7A)
 
 ![okretnica](https://github.com/dariomanesku/environment-maps/raw/master/jpg/okretnica.jpg)
 
@@ -40,7 +39,7 @@ Pictures are uploaded in JPEG format for lower file size. Prior to using them wi
 
 ![pogled-na-stadion](https://github.com/dariomanesku/environment-maps/raw/master/jpg/pogled_na_stadion.jpg)
 
-### Slavisa
+### [Slavisa](https://www.google.com/maps/views/view/117998106393492128954/photo/Uqt802cqr0kAAAQWs8hv7w)
 
 ![slavisa](https://github.com/dariomanesku/environment-maps/raw/master/jpg/slavisa.jpg)
 
